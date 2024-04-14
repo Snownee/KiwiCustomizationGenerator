@@ -1,0 +1,35 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run_data
+run_test
+run_server
+run_client
+jsondiff
+__pycache__
+/script/*.xlsx
+/script/xkdeco-blocks.csv
+/script/exported_creative_tabs.json
+/playground.yaml
+/script/exported_shapes.json
+/script/move_files.json
+!/xkdeco.xlsx
+/src/kiwi_generated/
